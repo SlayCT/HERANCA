@@ -10,7 +10,7 @@ A atividade trabalha três exercícios:
 
 * 👥 **Funcionários:** interface `Funcionario` e classes `Gerente`, `Vendedor` e `Faxineiro`, com métodos gerais e específicos para cada função.
 * 💳 **Pagamentos:** interface `Pagamento` e classes `PagamentoCartao` e `PagamentoDinheiro`, aplicando taxas e descontos, além da emissão de recibos.
-* 🔐 **Autenticação:** interface `Autenticavel` e classe `SistemaDeSeguranca`, com validação de login, autenticação e logout.
+* 🔐 **Autenticação:** interface `Autenticavel` e classe `SistemaSeguranca`, com validação de login, autenticação e logout.
 
 ## 🛠️ Tecnologias utilizadas
 
