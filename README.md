@@ -1,4 +1,4 @@
-# 📚 Atividade — Herança
+# 📚 Atividade 10 — Herança
 
 Atividade desenvolvida na disciplina de **Técnicas de Programação**, com foco no uso de **Interfaces, Herança e Polimorfismo** na Programação Orientada a Objetos (POO), utilizando a linguagem Java.
 
